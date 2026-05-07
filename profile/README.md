@@ -22,7 +22,7 @@ Core values shaping our product journey:
 - Affordability
 
 
-Levarage the [localization tools](https://poeditor.com/features/) POEditor offers to make multilingual apps, websites, themes, plugins, games and other software.
+Leverage the [localization tools](https://poeditor.com/features/) POEditor offers to make multilingual apps, websites, themes, plugins, games and other software.
 
 ### Got an Open Source software?
 
